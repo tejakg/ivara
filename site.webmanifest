@@ -1,0 +1,9 @@
+{
+  "name": "Ivara Works",
+  "short_name": "Ivara",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f1e8",
+  "theme_color": "#171513",
+  "description": "Ivara Works — functional 3D printed products, prototypes and small-batch builds."
+}
